@@ -1,1 +1,24 @@
-
+{
+  "format": "particle",
+  "title": "Toms Television Blog",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Blog*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "who knows what ill talk about on this blog??"
+    },
+    {
+      "type": "button",
+      "label": "Read: introduction 2025-08-12",
+      "action": "/blog1"
+    }
+    }  
+  ]
+}
