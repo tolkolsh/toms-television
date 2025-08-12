@@ -37,7 +37,6 @@
     {
       "type": "button",
       "label": "Read: My Games!",
-      ",
       "action": "/post3"
     },
     {
