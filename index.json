@@ -27,17 +27,17 @@
     {
       "type": "button",
       "label": "Read: Music Blog",
-      "action": "/post1"
+      "action": "/music-home"
     },
     {
       "type": "button",
       "label": "Read: Playdate Blog",
-      "action": "/post2"
+      "action": "/playdate-home"
     },
     {
       "type": "button",
       "label": "Read: My Games!",
-      "action": "/post3"
+      "action": "/devlog-home"
     },
     {
       "type": "paragraph",
