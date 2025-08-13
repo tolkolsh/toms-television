@@ -1,1 +1,23 @@
-
+{
+  "format": "particle",
+  "title": "Introduction",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Blog One: Introduction*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "I'm not entirely sure what I'll have on this block since the main things I want to talk about are featured on the other pages of this cite. For that reason this will probably be updated the least frequently, but who knows."
+    },
+    {
+      "type": "button",
+      "label": "Read: home",
+      "action": "/index"
+    }
+  ]
+}
