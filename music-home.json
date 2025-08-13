@@ -1,1 +1,28 @@
-
+{
+  "format": "particle",
+  "title": "Toms Television Blog",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Music Reviews and Stuff*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "are you a MUSIC NERD then this is for you!!"
+    },
+    {
+      "type": "button",
+      "label": "Read: I am a music nerd! show me some reviews!",
+      "action": "/reviews"
+    }
+    {
+      "type": "button",
+      "label": "Read: Umm NERD ALERT take me back to the hompage!",
+      "action": "/index"
+    }
+  ]
+}
