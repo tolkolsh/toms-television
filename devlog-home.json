@@ -1,1 +1,23 @@
-
+{
+  "format": "particle",
+  "title": "Devlogs",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Devlogs*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "Here you'll find devlogs for my in development and released games!"
+    },
+    {
+      "type": "button",
+      "label": "Read: Kooplas Garden",
+      "action": "/devKoopla"
+    }
+  ]
+}
