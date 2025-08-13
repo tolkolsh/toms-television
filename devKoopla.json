@@ -1,1 +1,23 @@
-
+{
+  "format": "particle",
+  "title": "devKoopla",
+  "content": [
+    {
+      "type": "paragraph",
+      "text": "*Koopla Devlog*",
+      "style": {
+        "text-align": "center",
+        "margin-bottom": 30
+      }
+    },
+    {
+      "type": "paragraph",
+      "text": "nothing for now..."
+    },
+    {
+      "type": "button",
+      "label": "Read: home",
+      "action": "/index"
+    }
+  ]
+}
