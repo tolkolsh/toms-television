@@ -17,6 +17,11 @@
     },
     {
       "type": "button",
+      "label": "Read: Klaatu - Hope, 1977",
+      "action": "/KlaHope"
+    },
+    {
+      "type": "button",
       "label": "Read: back",
       "action": "/index"
     }
